@@ -27,5 +27,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/rlzt3ah.png)
+![](https://i.imgur.com/B3XCOGB.png)
 > 在互動視窗列出、建立、編輯和刪除相關記錄
